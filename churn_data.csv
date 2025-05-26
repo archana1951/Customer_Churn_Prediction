@@ -1,0 +1,6 @@
+CustomerID,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited
+15634602,Female,42,3,123456.78,1,1,1,101348.88,1
+15647311,Male,35,5,0.00,2,0,1,112542.58,0
+15619304,Female,45,2,50878.55,1,1,0,113931.57,1
+15701354,Male,29,6,0.00,2,1,1,93826.63,0
+15737888,Female,40,8,120000.00,2,1,0,79084.10,1
